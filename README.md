@@ -3,20 +3,21 @@
 1. **Who and what did you find helpful for this project?**
 -------
 
-Organized linkedList by referring to tutorialspoint for the linkedlist class and nodes
+    Organized linkedList by referring to tutorialspoint for the linkedlist class and nodes
 
-Codereview
+    Codereview
 
-2. How did you test that your stack implementations were correct?
+2. **How did you test that your stack implementations were correct?**
 ------
 
+    Switching the list for sampling values of the .dat file
 
-**Switching the list for sampling values of the .dat file**
-
-3. Did you use any classes fromthe Java framework or other class library?
+3. **Did you use any classes fromthe Java framework or other class library?**
 --------
 
+    Used java.util.EmptyStackException library
 
-**Used java.util.EmptyStackException library**
-
-4. 
+4. **For  a  .dat  file  with  1  million  lines,how  many times would this resizing occur? What about with 1 billion or 1 trillion?**
+  --------
+  
+    
