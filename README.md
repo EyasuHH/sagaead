@@ -1,4 +1,10 @@
-# Write-up Questions
+*Eyasu Haile
+*CSC 130
+*Project 1
+
+
+
+## Write-up Questions
 
 1. **Who and what did you find helpful for this project?**
 -------
