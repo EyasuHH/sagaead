@@ -48,5 +48,6 @@
 
 	**be worse than your array and linked-liststack implementations?**
 	
-	
+------
+
 	The order of the stack when using linkedlist is kept in order while the queue does not work the same way
