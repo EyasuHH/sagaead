@@ -1,10 +1,11 @@
 # Write-up Questions
 
-1. Who and what did you find helpful for this project?
+1. **Who and what did you find helpful for this project?**
 -------
 
-**Organized linkedList by referring to tutorialspoint for the linkedlist class and nodes**
-**Codereview**
+Organized linkedList by referring to tutorialspoint for the linkedlist class and nodes
+
+Codereview
 
 2. How did you test that your stack implementations were correct?
 ------
