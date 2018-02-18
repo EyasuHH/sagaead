@@ -29,3 +29,12 @@
    
 6. **Write pseudocode for your push and pop operations. Assume your Queue class provides the operations enqueue, dequeue, isEmpty, &size.**
     
+    public double pop() {
+		if (isEmpty()) {	//value of the topstack
+			throw new EmptyStackException(); 
+		} else {		//decreases the array's, return following element
+			double poptop = doublestack[arrayI]; 
+			arrayI--; 
+			return poptop;
+		}
+	}
