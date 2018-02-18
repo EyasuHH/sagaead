@@ -19,5 +19,16 @@
 
 4. **For  a  .dat  file  with  1  million  lines,how  many times would this resizing occur? What about with 1 billion or 1 trillion?**
   --------
-  
+    1 mil: 1000, 1 bil: 10000, 1 tril: 100000
+    
+    
+5. **Instead of a DStack interface, pretend you were given a fully-functional FIFO Queue class. How might you implement this project (i.e., 
+
+   **simulate a Stack) with one or more instances of a FIFO Queue**
+   
+   
+   
+6. **Write pseudocode for your push and pop operations. Assume your Queue class provides the operations enqueue, dequeue, 
+
+   **isEmpty, and size.**
     
