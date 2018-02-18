@@ -29,20 +29,21 @@
    
 6. **Write pseudocode for your push and pop operations. Assume your Queue class provides the operations enqueue, dequeue, isEmpty, &size.**
     
-    public double pop() {
+    public double pop() 
     
-		if (isEmpty()) {	//value of the topstack
+		if isEmpty()
 		
-			throw new EmptyStackException(); 
+			isEmpty.enqueue 
 			
-		} else {		//decreases the array's, return following element
+		else
 		
-			double poptop = doublestack[arrayI]; 
+			isEmpty.dequeue
 			
-			arrayI--; 
+			size *= 10 
 			
-			return poptop;
-			
-		}
+			return x
 		
-	}
+
+7. **Why would a stack implementation using a queue, as you described in the previous problem**
+
+	**kladjkfdj**
