@@ -1,6 +1,8 @@
-*Eyasu Haile
-*CSC 130
-*Project 1
+*Eyasu Haile*
+
+*CSC 130*
+
+*Project 1*
 
 
 
