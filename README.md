@@ -46,4 +46,7 @@
 
 7. **Why would a stack implementation using a queue, as you described in the previous problem**
 
-	**kladjkfdj**
+	**be worse than your array and linked-liststack implementations?**
+	
+	
+	The order of the stack when using linkedlist is kept in order while the queue does not work the same way
