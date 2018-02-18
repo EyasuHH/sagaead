@@ -27,6 +27,7 @@
    
    
    
-6. **Write pseudocode for your push and pop operations. Assume your Queue class provides the operations enqueue, dequeue, **
-   **isEmpty, and size.**
+6. **Write pseudocode for your push and pop operations. Assume your Queue class provides the operations enqueue, dequeue, isEmpty, and**
+
+    **size.**
     
